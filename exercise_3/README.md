@@ -33,6 +33,6 @@
         └───Squirrel
 ```
 
-The **Dataset 60-40** folder consists of 60% train data images, 40% test data images and 20% validation data images taken from the train folder
+- The **Dataset 60-40** folder consists of 60% train data images, 40% test data images and 20% validation data images taken from the train folder
 
-The **Dataset 80-20** folder consists of 80% train data images, 20% test data images and 20% validation data images taken from the train folder
+- The **Dataset 80-20** folder consists of 80% train data images, 20% test data images and 20% validation data images taken from the train folder
